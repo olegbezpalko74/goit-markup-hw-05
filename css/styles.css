@@ -480,6 +480,7 @@ margin-right: 30px;
 /* footer */
 .footer-container {
     display: flex;
+    align-items: baseline;
 }
 .footer {
     background-color: var(--hero-bg-color);
